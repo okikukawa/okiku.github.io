@@ -1,0 +1,49 @@
+header{
+  height: 80px;
+  background-color:red;
+  color:white;
+}
+
+.header-logo{
+    float:left;
+    padding:25px 50px;
+    font-size: 20px;
+}
+
+header a{
+  color:white;
+}
+
+header li{
+  list-style: none;
+  float: left;
+  padding-top:30px;
+  padding-left:40px;
+  font-size:15px;
+}
+
+.header-login{
+  float:right;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.header-login:hover{
+  background-color: rgba(255, 255, 255, 0.6);
+  color:rgba(22, 22, 22, 0.8);
+}
+
+.header-login a{
+  text-height:80px;
+  padding:0px 20px;
+  line-height:80px;
+  display:block;
+  font-size:15px;
+}
+
+
+.title {
+  color: #02ccba;
+  padding: 100px;
+  margin:100px;
+  border: 1px solid gray;
+}
